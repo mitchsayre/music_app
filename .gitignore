@@ -35,3 +35,7 @@ music_app-*.tar
 npm-debug.log
 /assets/node_modules/
 
+.env
+servers.json
+/music-app-local/
+
